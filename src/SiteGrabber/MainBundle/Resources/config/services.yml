@@ -1,0 +1,7 @@
+parameters:
+#    site_grabber_main.example.class: SiteGrabber\MainBundle\Example
+
+services:
+#    site_grabber_main.example:
+#        class: %site_grabber_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

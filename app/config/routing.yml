@@ -1,0 +1,4 @@
+site_grabber_main:
+    resource: "@SiteGrabberMainBundle/Resources/config/routing.yml"
+    prefix:   /
+
