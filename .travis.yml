@@ -1,0 +1,8 @@
+language: php
+php:
+  - 5.5
+install: php vendor/vendors.php
+script:
+    composer install
+    cd /var/www/aws
+    php-cs
